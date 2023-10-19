@@ -1,7 +1,7 @@
 {
   "name": "@bonassa/eslint-config",
   "version": "1.0.0",
-  "private": "false",
+  "private": false,
   "description": "ESLint basic configuration",
   "main": "index.js",
   "license": "MIT",
